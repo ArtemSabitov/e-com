@@ -1,0 +1,13 @@
+/screenshots
+*.iml
+
+## Directory-based project format:
+.idea/
+
+## Plugin-specific files:
+.allure/
+
+# IntelliJ
+/out/
+/target/
+target
